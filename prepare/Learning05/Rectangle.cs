@@ -31,5 +31,4 @@ public class Rectangle : Shape
     {
         _width = width;
     }
-
 }
